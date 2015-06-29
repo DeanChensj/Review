@@ -1,9 +1,3 @@
-title: Add Schedule Counter in Kernel
-date: 2015-05-04 23:03:31
-categories:
-- Operating System
-tags:
-- Linux Kernel
 ---
 ####Objective
 
